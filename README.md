@@ -8,5 +8,11 @@
 - Linkando o MySQL ao Netbeans.
 
 ## 🚀 Tecnologias
+<p>Linguagens de programação utilizadas:</p>
 - Java
 - SQL
+
+## 💾 Programas
+<p>Programas usados para programação:</p>
+- Netbeans
+- MySQL

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="https://maven:apache.org/POM/4.0.0" xmlns:xsi="https:www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/POM.4.0"
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.mycompany</groupId>
+	<artifactId>Universidade</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<packaging>ar</packaging>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>20</maven.compiler.source>
+		<maven.compiler.target>20</maven.compiler.target>
+		<exec.mainClass>com.mycompany.universidade.Principal</exec.mainClass>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.19</version>
+		</dependency>
+	</dependencies>
+</project>

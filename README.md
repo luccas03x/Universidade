@@ -2,9 +2,9 @@
 
 ## 🎯 Objetivos
 
-<p>Projeto de Java feito em aula na faculdade junto com o professor.</p>
-<p>Criando um banco de dados de uma universidade.</p>
-<p>Linkando o MySQL ao Netbeans.</p>
+- Projeto de Java feito em aula na faculdade junto com o professor.
+- Criando um banco de dados de uma universidade.
+- Linkando o MySQL ao Netbeans.
 
 ## 🚀 Tecnologias
 - Java
